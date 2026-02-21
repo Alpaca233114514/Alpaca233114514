@@ -19,7 +19,7 @@ C#: Recommended by my girlfriend, with an inclination to learn
   </a>
 </p>
 
-# The main AI models used in Vibe Coding
+# The main AI models used in Vibe Coding🚀
 ### 复杂任务 Complex task
 - GPT Codex
 - Claude Sonnet
