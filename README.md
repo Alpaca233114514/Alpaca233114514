@@ -21,8 +21,8 @@ C#: Recommended by my girlfriend, with an inclination to learn
 
 # The main AI models used in Vibe Coding🚀
 ### 复杂任务 Complex task
+- Cluade Sonnet
 - GPT Codex
-- Claude Sonnet
 ### 简单任务 Simple task
 - Gemini Pro
 - DeepSeek
