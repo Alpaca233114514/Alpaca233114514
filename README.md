@@ -19,6 +19,10 @@ C#: Recommended by my girlfriend, with an inclination to learn
   </a>
 </p>
 
+# Recent Projects👍
+- Papyrus-由古埃及莎草纸得名，一个简易的类anki记忆工具 </p>
+  Papyrus - named after ancient Egyptian papyrus, a simple Anki-like memory tool
+
 # The main AI models used in Vibe Coding🚀
 ### 复杂任务 Complex task
 - Cluade Sonnet
@@ -29,3 +33,4 @@ C#: Recommended by my girlfriend, with an inclination to learn
 
 以上内容的英文版本使用Gemini 3.1 Pro翻译得来以保证内容质量，修改中部分建议由Gemini 3.0 Flash提出 <br>
 The English version of the above content was translated using Gemini 3.1 Pro to ensure content quality, and some of the suggestions during the revision were provided by Gemini 3.0 Flash
+
