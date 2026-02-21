@@ -8,11 +8,11 @@
 - Python: 拥有一些基础知识和技术，写过一款类Anki应用帮助自己学习 <br>
 Python: Have some basic knowledge and skills, and wrote an Anki-like application to help myself learn
 - Javascript: 曾与 AI 协作创建Pipedream晨报AI工作流，实现自动获取天气，新闻等信息的功能 <br>
-Javascript： Collaborated with AI to create a Pipedream morning report AI workflow, enabling automated retrieval of weather, news,and other information
+Javascript： Collaborated with AI to create a Pipedream morning report AI workflow, enabling automated retrieval of weather, news, and other information
 - C#: 受女朋友推荐，目前有学习倾向 <br>
 C#: Recommended by my girlfriend, with an inclination to learn
 - Obsidian: 主要用于知识学习，后续将应用于coding方面;目前作为知识库与外置大脑使用 <br>
-- Obsidian: Mainly used for knowledge learning, and will later be applied to coding;currently used as a knowledge base and external brain
+- Obsidian: Mainly used for knowledge learning, and will later be applied to coding; currently used as a knowledge base and external brain
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,obsidian,cs" />
