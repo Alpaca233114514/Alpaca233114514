@@ -5,8 +5,8 @@
 - 人工智能与深度学习 <br>
  Artificial Intelligence and Deep Learning 
 # Tools And languages💖
-- Python: 拥有一些基础知识和技术，写过一款类Anki应用帮助自己学习 <br>
-Python: Have some basic knowledge and skills, and wrote an Anki-like application to help myself learn
+- Python: 拥有一些基础知识和技术，但这依然不够 <br>
+Python: Have some basic knowledge and skills,But this is still not enough
 - Javascript: 曾与 AI 协作创建Pipedream晨报AI工作流，实现自动获取天气，新闻等信息的功能 <br>
 Javascript： Collaborated with AI to create a Pipedream morning report AI workflow, enabling automated retrieval of weather, news, and other information
 - C#: 受女朋友推荐，目前有学习倾向 <br>
