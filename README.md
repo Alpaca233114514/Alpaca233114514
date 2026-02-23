@@ -25,10 +25,12 @@ C#: Recommended by my girlfriend, with an inclination to learn
 
 # The main AI models used in Vibe Coding🚀
 ### 复杂任务 Complex task
-- Cluade Sonnet
+- Cluade Opus
 - GPT Codex
+- Cluade Sonnet
 ### 简单任务 Simple task
 - Gemini Pro
+- Gemini Flash
 - DeepSeek
 
 以上内容的英文版本使用Gemini 3.1 Pro翻译得来以保证内容质量，修改中部分建议由Gemini 3.0 Flash提出 <br>
