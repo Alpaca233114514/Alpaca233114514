@@ -30,7 +30,7 @@ C#: Recommended by my girlfriend, with an inclination to learn
 ### 简单任务 Simple task
 - Gemini Pro
 - Gemini Flash
-- DeepSeek
+- Kimi
 
 以上内容的英文版本使用Gemini 3.1 Pro翻译得来以保证内容质量，修改中部分建议由Gemini 3.0 Flash提出 <br>
 The English version of the above content was translated using Gemini 3.1 Pro to ensure content quality, and some of the suggestions during the revision were provided by Gemini 3.0 Flash
