@@ -20,8 +20,8 @@ C#: Recommended by my girlfriend, with an inclination to learn
 </p>
 
 # Recent Projects👍
-- Papyrus-由古埃及莎草纸得名，一个简易的类anki记忆工具 </p>
-  Papyrus - named after ancient Egyptian papyrus, a simple Anki-like memory tool
+- Papyrus-由古埃及莎草纸得名，一个简易的AI Agent驱动类anki记忆工具 </p>
+ Papyrus – named after the ancient Egyptian papyrus paper, is a simple AI-driven memoriing tool similar to Anki.
 
 # The main AI models used in Vibe Coding🚀
 ### 复杂任务 Complex task
