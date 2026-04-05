@@ -10,19 +10,26 @@ Python: Have some basic knowledge and skills,But this is still not enough
 - Javascript: 曾与 AI 协作创建Pipedream晨报AI工作流，实现自动获取天气，新闻等信息的功能 <br>
 Javascript： Collaborated with AI to create a Pipedream morning report AI workflow, enabling automated retrieval of weather, news, and other information
 - C#: 受女朋友推荐，目前有学习倾向 <br>
-C#: Recommended by my girlfriend, with an inclination to learn
+C#: Recommended by my girlfriend, with an inclination to learn.
+- TypeScript,React: 正参与Papyrus新前端开发。
+TypeScript, React: Participating in the development of Papyrus' new front-end.
 - Obsidian: 主要用于知识学习，后续将应用于coding方面;目前作为知识库与外置大脑使用 <br>
 - Obsidian: Mainly used for knowledge learning, and will later be applied to coding; currently used as a knowledge base and external brain
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,obsidian,cs" />
+    <img src="https://skillicons.dev/icons?i=py,js,obsidian,cs,ts,react" />
   </a>
 </p>
 
 # Recent Projects👍
 - Papyrus-由古埃及莎草纸得名，一个简易的AI Agent驱动类anki记忆工具 </p>
- Papyrus – named after the ancient Egyptian papyrus paper, is a simple AI-driven memoriing tool similar to Anki.
-
+Papyrus – named after the ancient Egyptian papyrus paper, is a simple AI-driven memoriing tool similar to Anki.
+- Chiral Controller-使用手机控制你电脑上的kimi code cli. </p>
+Chiral Controller - Control the kimi code cli on your computer with your phone.
+- OneStepHealth(规划中）-综合性健康APP </p>
+OneStepHealth (in the works) - comprehensive health app
+- Maia（规划中）-面向更多人的计步算法。 </p>
+Maia (in the works) – A step counting algorithm for more people.
 # The main AI models used in Vibe Coding🚀
 ### 复杂任务 Complex task
 - GPT Codex
