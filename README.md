@@ -30,8 +30,8 @@ Chiral Controller - Control the kimi code cli on your computer with your phone.
 Skill Box - Pensonal skills box,It will be a store app in the future.
 - OneStepHealth(规划中）-综合性健康APP </p>
 OneStepHealth (in the works) - comprehensive health app
-- Maia（规划中）-面向更多人的计步算法。 </p>
-Maia (in the works) – A step counting algorithm for more people.
+- Uranus（规划中）-面向更多人的计步算法。 </p>
+  Uranus (in the works) – A step counting algorithm for more people.
 # The main AI models used in Vibe Coding🚀
 ### 复杂任务 Complex task
 - GPT Codex
