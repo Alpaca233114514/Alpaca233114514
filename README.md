@@ -26,8 +26,6 @@ Obsidian: Mainly used for knowledge learning, and will later be applied to codin
 Papyrus – named after the ancient Egyptian papyrus paper, is a simple AI-driven memoriing tool similar to Anki.
 - Chiral Controller-使用手机控制你电脑上的kimi code cli. </p>
 Chiral Controller - Control the kimi code cli on your computer with your phone.
-- Skill Box-个人skill合集，可能会做成store App  </p>
-Skill Box - Pensonal skills box,It will be a store app in the future.
 - OneStepHealth(规划中）-综合性健康APP </p>
 OneStepHealth (in the works) - comprehensive health app
 - Uranus（规划中）-面向更多人的计步算法。 </p>
