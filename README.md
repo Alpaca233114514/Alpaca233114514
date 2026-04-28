@@ -1,4 +1,6 @@
 # 《梁文锋爷爷击落OpenAI服务器》
+<img width="610" height="313" alt="image" src="https://github.com/user-attachments/assets/d3b6b721-d3b9-4135-b122-abc7072988df" />
+
 
 # About me👶
 - AI&开源社区爱好者，目前在学习计算机领域相关知识，代码萌新，主要将AI视为结对编程伙伴与debug工具而非思路剽窃机 <br>
