@@ -37,8 +37,8 @@ Papyrus – named after the ancient Egyptian papyrus paper, is a simple AI-drive
 Chiral Controller - Control the kimi code cli on your computer with your phone.
 - OneStepHealth(规划中）-综合性健康APP </p>
 OneStepHealth (in the works) - comprehensive health app
-- Uranus（规划中）-面向更多人的计步算法。 </p>
-  Uranus (in the works) – A step counting algorithm for more people.
+- pulsar（规划中）-面向更多人的计步算法。 </p>
+  pulsar (in the works) – A step counting algorithm for more people.
 # The main AI models used in Vibe Coding🚀
 ### 复杂任务 Complex task
 - GPT Codex
