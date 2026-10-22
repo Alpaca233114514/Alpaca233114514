@@ -35,7 +35,12 @@ Obsidian: Mainly used for knowledge learning, and will later be applied to codin
 - **CivBench** — 面向 AI 长期规划、多领域知识工作与软件开发能力的综合性 Benchmark。  
   **CivBench** — A comprehensive benchmark for evaluating AI capabilities in long-horizon planning, multidisciplinary knowledge work, and software development.
 
+# Opensource Contribution 🤣
 
-以上内容的英文版本使用Gemini 3.1 Pro与GPT-6翻译得来以保证内容质量，修改中部分建议由Gemini 3.0 Flash提出 <br>
-The English version of the above content was translated using Gemini 3.1 Pro and GPT-6 to ensure content quality, and some of the suggestions during the revision were provided by Gemini 3.0 Flash
+- Codex App Transfer By Cmochance
+
+- 
+早期版本的英文翻译由 Gemini 3 完成整体翻译，并由 Gemini 3.0 Flash 进行校对。目前，英文翻译与润色工作已统一由 GPT-6 完成。
+
+Earlier versions were initially translated by Gemini 3 and proofread by Gemini 3.0 Flash. English translation and polishing are now handled entirely by GPT-6.
 
