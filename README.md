@@ -39,7 +39,6 @@ Obsidian: Mainly used for knowledge learning, and will later be applied to codin
 
 - Codex App Transfer By Cmochance
 
-- 
 早期版本的英文翻译由 Gemini 3 完成整体翻译，并由 Gemini 3.0 Flash 进行校对。目前，英文翻译与润色工作已统一由 GPT-6 完成。
 
 Earlier versions were initially translated by Gemini 3 and proofread by Gemini 3.0 Flash. English translation and polishing are now handled entirely by GPT-6.
