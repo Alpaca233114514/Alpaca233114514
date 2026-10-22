@@ -21,24 +21,21 @@ Obsidian: Mainly used for knowledge learning, and will later be applied to codin
   </a>
 </p>
 
-# Recent Projects👍
-- Papyrus-由古埃及莎草纸得名，一个简易的AI Agent驱动类anki记忆工具 </p>
-Papyrus – named after the ancient Egyptian papyrus paper, is a simple AI-driven memoriing tool similar to Anki.
-- Chiral Controller-使用手机控制你电脑上的kimi code cli. </p>
-Chiral Controller - Control the kimi code cli on your computer with your phone.
-- OneStepHealth(规划中）-综合性健康APP </p>
-OneStepHealth (in the works) - comprehensive health app
-- pulsar（规划中）-面向更多人的计步算法。 </p>
-  pulsar (in the works) – A step counting algorithm for more people.
-# The main AI models used in Vibe Coding🚀
-### 复杂任务 Complex task
-- GPT Codex
-- Cluade Opus
-### 简单任务 Simple task
-- Gemini Pro
-- Gemini Flash
-- Kimi
+# Recent Projects 🔥
 
-以上内容的英文版本使用Gemini 3.1 Pro翻译得来以保证内容质量，修改中部分建议由Gemini 3.0 Flash提出 <br>
-The English version of the above content was translated using Gemini 3.1 Pro to ensure content quality, and some of the suggestions during the revision were provided by Gemini 3.0 Flash
+- **Papyrus Desktop** — 由古埃及莎草纸得名，一款由 AI Agent 驱动、类似 Anki 的记忆与复习工具。  
+  **Papyrus Desktop** — Named after ancient Egyptian papyrus, an AI-agent-powered memorization and review tool inspired by Anki.
+
+- **OpenWallet** — 一款正在测试中的 Android 本地记账应用。  
+  **OpenWallet** — An experimental Android expense-tracking app currently under testing.
+
+- **better-dsh** — 面向 DeepSeek Harness 的综合性插件项目，提供多种插件与扩展功能。  
+  **better-dsh** — A comprehensive plugin suite for DeepSeek Harness, providing a range of plugins and extensibility features.
+
+- **CivBench** — 面向 AI 长期规划、多领域知识工作与软件开发能力的综合性 Benchmark。  
+  **CivBench** — A comprehensive benchmark for evaluating AI capabilities in long-horizon planning, multidisciplinary knowledge work, and software development.
+
+
+以上内容的英文版本使用Gemini 3.1 Pro与GPT-6翻译得来以保证内容质量，修改中部分建议由Gemini 3.0 Flash提出 <br>
+The English version of the above content was translated using Gemini 3.1 Pro and GPT-6 to ensure content quality, and some of the suggestions during the revision were provided by Gemini 3.0 Flash
 
